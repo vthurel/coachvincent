@@ -1,5 +1,5 @@
 ---
-title: About Me
+title: Om mig
 description: this is meta description
 bg_image: "/images/me_fsquat.svg"
 
